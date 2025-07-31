@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center"> <a href="https://zatkovic.cz">Martin Žatkovič</a></h2>
-  <h4 align="center">SEO consultant focused on technical SEO from 🇨🇿</h4>
+  <h4 align="center">Head of AI integration at <a href="https://www.seznam.cz/">Seznam.cz</a></h4>
+  <h4 align="center">(ex)SEO consultant focused on technical SEO from 🇨🇿</h4>
 </p>
 
------
-
-Bellow are mine super projects which are useful for SEOs. Flags in description shows you the language of readme and docs. I prefer R for data analysis, but I can also handle Python. I usually write web applications in PHP because I can publish them quickly. And when I need something big in Excel I use Open Refine.
+<p align="center">I help companies grow by combining AI automation, marketing/SEO strategy, and product thinking.</p>
 
 <!---
 
