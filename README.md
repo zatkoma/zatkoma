@@ -19,6 +19,10 @@ Before my AI era I worked as SEO for [🛒 zbozi.cz](https://zbozi.cz/) and [�
 - 🐙 (under development) - Tool that orchestrate Claude Code to scale on bigger projects
 - 💻 (under development) - Platform for vibe-coding SAAS as quick as possible
 
+**🧰 Open source...**
+
+- 📊 [claude-code-statusline](https://github.com/zatkoma/claude-code-statusline) - Claude Code status line that predicts when you'll hit your rate limits and when the prompt cache expires
+
 **Contact me...**
 
 Primarly on my [Linkedin](https://www.linkedin.com/in/martin-zatkovic/), I'm opended on anything that has potential to help masses to be more AI FIRST and scaling above their competitors. 
