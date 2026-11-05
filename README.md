@@ -22,6 +22,7 @@ Before my AI era I worked as SEO for [🛒 zbozi.cz](https://zbozi.cz/) and [�
 **🧰 Open source...**
 
 - 📊 [claude-code-statusline](https://github.com/zatkoma/claude-code-statusline) - Claude Code status line that predicts when you'll hit your rate limits and when the prompt cache expires
+- 📊 [codex-statusline](https://github.com/zatkoma/codex-statusline) - Codex CLI status line with rate-limit predictions, context usage against a 400k budget, and model and profile badges
 
 **Contact me...**
 
